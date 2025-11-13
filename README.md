@@ -12,6 +12,4 @@ It demonstrates fundamental programming concepts such as file handling, classes,
 - Modify and delete accounts  
 - Simple file-based data storage  
 
----
 
-## 🧩 Project Structure
